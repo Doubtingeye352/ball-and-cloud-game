@@ -2,7 +2,7 @@
 
 
 this mini python game is a fairly same as my old game find the gap but this time we have a  ball which you have to dodge too player is given more speed too.
-there might be some bugs and glitches which i am going to fix in the future enjoy!
+there might be some bugs and glitches which i am going to fix like the player who goes off the screen such bugs will be fixed in the future enjoy!
 
 
 objective of the game:

@@ -107,16 +107,16 @@ def jump():
 def move_left():
         x = player.xcor()
         x = x - playerspeed
-        if x < -450:
-            x = -450
+        if x < -400:
+            x = -400
         player.setx(x)
 
 
 def move_right():
         x = player.xcor()
         x = x + playerspeed
-        if x > 450:
-            x = 450
+        if x > 400:
+            x = 400
         player.setx(x)
 
 
